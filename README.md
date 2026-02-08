@@ -45,10 +45,18 @@ I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **
 ### 📊 GitHub Stats
 
 <div align="center">
-[![](https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  <a href="https://github.com/liji3597">
+    <img src="https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/zenburn/0-profile-details.svg" width="100%" alt="Profile Details" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/liji3597">
+    <img src="https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/zenburn/3-stats.svg" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/liji3597">
+    <img src="https://raw.githubusercontent.com/liji3597/liji3597/main/profile-summary-card-output/zenburn/2-most-commit-language.svg" width="49%" alt="Top Languages" />
+  </a>
 </div>
 
 ---
