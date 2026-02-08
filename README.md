@@ -44,6 +44,7 @@ I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **
 
 ### 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liji3597)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats.ropebowl.com/api?username=liji3597&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   <img src="https://github-readme-stats.ropebowl.com/api/top-langs/?username=liji3597&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
