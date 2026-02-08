@@ -12,13 +12,16 @@
 
 ### 🚀 About Me
 
-I'm a developer focusing on **DeFi mechanics, Prediction Markets, and AI Automation**. I love building tools that analyze on-chain data to find "Alpha".
+> **"Code is Law, Data is Alpha."**
 
-- 🔭 I’m currently building **[Insider-hunter](https://github.com/liji3597/Insider-hunter)** – A tool tracking smart money on prediction markets.
-- ⚡ Hackathon Status: Competing in **SPARK AI Hackathon** & **USDC Agentic Hackathon**.
-- 🌱 I’m currently learning **Solana Ecosystem (Rust)** & **Advanced Foundry patterns**.
-- 🤖 I automate workflows using **n8n, Dify, and LLMs**.
-- 💼 Goal: Turning code into sustainable passive income.
+I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **INTJ**, I focus on building systems that automate "Alpha" discovery.
+
+- 🔭 **Project:** Currently building **[Insider-hunter](https://github.com/liji3597/Insider-hunter)** – A tool tracking smart money on Prediction Markets.
+- 🧬 **Vibe:** **AI-Augmented Dev**. I use **n8n & Agents** to speed up development and on-chain analysis.
+- 🏆 **Hackathons:**
+  - ⚡ **SPARK AI Hackathon** 
+  - 🌐 **USDC Agentic Hackathon** 
+- 🎯 **Focus:** Smart Contracts, Prediction Markets, and Trading Bots.
 
 ---
 
@@ -49,10 +52,10 @@ I'm a developer focusing on **DeFi mechanics, Prediction Markets, and AI Automat
 ---
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_X_HANDLE_HERE">
+  <a href="https://twitter.com/liji_1357">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:asd1020205749@foxmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
