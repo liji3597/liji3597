@@ -45,8 +45,7 @@ I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liji3597&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liji3597&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=liji3597&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ---
