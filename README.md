@@ -16,12 +16,12 @@
 
 I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **INTJ**, I focus on building systems that automate "Alpha" discovery.
 
-- 🔭 **Project:** Currently building **[Insider-hunter](https://github.com/liji3597/Insider-hunter)** – A tool tracking smart money on Prediction Markets.
+- 🔭 **Project:**  **[Insider-hunter](https://github.com/liji3597/Insider-hunter)** – A tool tracking smart money on Prediction Markets.
 - 🧬 **Vibe:** **AI-Augmented Dev**. I use **n8n & Agents** to speed up development and on-chain analysis.
 - 🏆 **Hackathons:**
   - ⚡ **SPARK AI Hackathon** 
   - 🌐 **USDC Agentic Hackathon** 
-- 🎯 **Focus:** Smart Contracts, Prediction Markets, and Trading Bots.
+- 🎯 **Focus:** Smart Contracts, Prediction Markets, Openclaw skills and Trading Bots.
 
 ---
 
