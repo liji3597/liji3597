@@ -14,7 +14,7 @@
 
 > **"AI Reshapes Everything.   Life is about making waves."**
 
-I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **INTJ**, I focus on building systems that automate "Alpha" discovery.
+I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **INTJ**, I focus on using AI reshapes everything.
 
 - 🔭 **Project:**  
 - **[Insider-hunter](https://github.com/liji3597/Insider-hunter)** – A tool tracking smart money on Prediction Markets.
