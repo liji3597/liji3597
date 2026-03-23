@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Jese Li! 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Web3+Developer+%7C+Solidity+%26+Rust;Building+AI+Agents+with+n8n;Hunting+Smart+Money+on+Polymarket;Participating+in+SPARK+AI+Hackathon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Web3+Developer+%7C+Solidity+%26+Rust;Building+AI+Agents+with+n8n;Hunting+Smart+Money+on+Polymarket;Participating+in+AI+Hackathon" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-> **"Code is Law, Data is Alpha."**
+> **"AI Reshapes Everything.   Life is about making waves."**
 
 I'm **Jese**, a **Web3 Builder** & **Solidity Developer** (Gen Z / 02). As an **INTJ**, I focus on building systems that automate "Alpha" discovery.
 
