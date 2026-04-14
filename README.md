@@ -56,18 +56,16 @@ Work style ......... Learn fast, prototype quickly, and harden the parts that pr
 
 ## Featured Projects
 
-English first, Chinese right below each project card.<br/>
-每个项目卡片都先写英文，再紧接中文说明。
+English description first, followed by one short Chinese line.<br/>
+先写英文介绍，下面接一句更简洁的中文。
 
 ### [`Bored Treasury Yield Club (BTYC)`](https://github.com/liji3597/LI.FI-hackaton-forntend)
 <img src="https://img.shields.io/badge/TypeScript-12161D?style=flat-square&logo=typescript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Hackathon-LI.FI-12161D?style=flat-square&logo=github&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="LI.FI Hackathon" />
 
 Frontend prototype for a treasury yield workflow built during the LI.FI hackathon, with backend integration planned next.<br/>
-这是我在 LI.FI 黑客松里做的国库收益流程前端原型，后面还会继续把后端接起来。
-
-The execution concept follows Scheme A: proposal passes first, then a multisig manager reviews and triggers execution manually.<br/>
-执行方案就按方案 A 走：提案先通过，再由多签管理员审核后手动执行。
+这是我做的一个黑客松前端原型，后面还会继续补完。<br/>
+The execution concept follows Scheme A: proposal passes first, then a multisig manager reviews and triggers execution manually.
 
 <br/>
 
@@ -76,10 +74,8 @@ The execution concept follows Scheme A: proposal passes first, then a multisig m
 <img src="https://img.shields.io/badge/Cloudflare_Workers-12161D?style=flat-square&logo=cloudflare&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Cloudflare Workers" />
 
 An API key management platform with load balancing, availability checks, sharing controls, and a visual admin layer.<br/>
-这是一个做 API Key 管理的平台，包含负载均衡、可用性检测、共享权限和可视化管理。
-
-It reflects my interest in practical tooling that solves operational problems with a clean product surface.<br/>
-这个项目比较能代表我的偏好，就是把真实的运维问题做成顺手、好用的产品。
+这是一个做 API Key 管理的平台，包含负载均衡、可用性检测、共享权限和可视化管理。<br/>
+It reflects my interest in practical tooling that solves operational problems with a clean product surface.
 
 <br/>
 
@@ -88,10 +84,8 @@ It reflects my interest in practical tooling that solves operational problems wi
 <img src="https://img.shields.io/badge/STM32-12161D?style=flat-square&logo=stmicroelectronics&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="STM32" />
 
 An embedded project on STM32F4 covering signal collection, filtering, and downstream health-state analysis.<br/>
-这是一个基于 STM32F4 的嵌入式项目，做了信号采集、滤波和后续健康状态分析。
-
-It represents my low-level engineering side and my comfort working close to hardware constraints.<br/>
-这个项目更偏底层，也说明我能接受贴着硬件约束去做工程开发。
+这是一个基于 STM32F4 的嵌入式项目，做了信号采集、滤波和后续健康状态分析。<br/>
+It represents my low-level engineering side and my comfort working close to hardware constraints.
 
 <br/>
 
@@ -100,10 +94,8 @@ It represents my low-level engineering side and my comfort working close to hard
 <img src="https://img.shields.io/badge/Telegram-12161D?style=flat-square&logo=telegram&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Telegram" />
 
 A Telegram automation tool for forwarding, filtering, regex replacement, and protected-content extraction.<br/>
-这是一个 Telegram 自动化工具，支持消息转发、关键词过滤、正则替换和受保护内容提取。
-
-It shows my preference for small, sharp utilities that are useful immediately in real workflows.<br/>
-这类项目我一直挺喜欢，体量不一定大，但上手就能解决具体问题。
+这是一个 Telegram 自动化工具，支持消息转发、关键词过滤、正则替换和受保护内容提取。<br/>
+It shows my preference for small, sharp utilities that are useful immediately in real workflows.
 
 <br/>
 
