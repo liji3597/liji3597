@@ -1,0 +1,12 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" fill="#0E1116"/>
+  <rect x="48" y="46" width="1504" height="328" rx="24" fill="#12161D" stroke="#B8893A" stroke-width="2"/>
+  <path d="M88 114H1512" stroke="#B8893A" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M88 306H1512" stroke="#B8893A" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <circle cx="122" cy="210" r="10" fill="#B8893A"/>
+  <circle cx="1478" cy="210" r="10" fill="#B8893A"/>
+  <text x="112" y="180" fill="#F4E6C8" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="1.5">JESE LI</text>
+  <text x="112" y="232" fill="#D4B178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="4">PRACTICAL SOFTWARE BUILDER</text>
+  <text x="112" y="272" fill="#D7DBE1" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400">TypeScript  /  JavaScript  /  C  /  Python</text>
+  <text x="112" y="336" fill="#7E858F" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400">github.com/liji3597</text>
+</svg>
