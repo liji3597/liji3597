@@ -58,60 +58,51 @@ Work style ......... Learn fast, prototype quickly, and harden the parts that pr
 English first, Chinese right below each project card.<br/>
 每个项目卡片都先写英文，再紧接中文说明。
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/liji3597/LI.FI-hackaton-forntend">Bored Treasury Yield Club (BTYC)</a></strong><br/>
-      <img src="https://img.shields.io/badge/TypeScript-12161D?style=flat-square&logo=typescript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Hackathon-LI.FI-12161D?style=flat-square&logo=github&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="LI.FI Hackathon" />
-      <br/><br/>
-      Frontend prototype for a treasury yield workflow built during the LI.FI hackathon, with backend integration planned next.<br/>
-      这是在 LI.FI 黑客松期间完成的国库收益流程前端原型，后续会继续接入后端能力。
-      <br/><br/>
-      The execution concept follows Scheme A: proposal passes first, then a multisig manager reviews and triggers execution manually.<br/>
-      执行方案采用方案 A：提案先通过，再由多签管理员审核并手动触发执行。
+### [`Bored Treasury Yield Club (BTYC)`](https://github.com/liji3597/LI.FI-hackaton-forntend)
+<img src="https://img.shields.io/badge/TypeScript-12161D?style=flat-square&logo=typescript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Hackathon-LI.FI-12161D?style=flat-square&logo=github&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="LI.FI Hackathon" />
 
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/liji3597/Siliconflow-API-Management">Siliconflow-API-Management</a></strong><br/>
-      <img src="https://img.shields.io/badge/JavaScript-12161D?style=flat-square&logo=javascript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-12161D?style=flat-square&logo=cloudflare&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Cloudflare Workers" />
-      <br/><br/>
-      An API key management platform with load balancing, availability checks, sharing controls, and a visual admin layer.<br/>
-      这是一个包含负载均衡、可用性检测、权限共享和可视化管理能力的 API Key 管理平台。
-      <br/><br/>
-      It reflects my interest in practical tooling that solves operational problems with a clean product surface.<br/>
-      这个项目体现了我对实用型工具产品的兴趣，也体现了我对工程问题产品化的偏好。
+Frontend prototype for a treasury yield workflow built during the LI.FI hackathon, with backend integration planned next.<br/>
+这是在 LI.FI 黑客松期间完成的国库收益流程前端原型，后续会继续接入后端能力。
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/liji3597/CACRS-on-STM32F4">CACRS-on-STM32F4</a></strong><br/>
-      <img src="https://img.shields.io/badge/C-12161D?style=flat-square&logo=c&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="C" />
-      <img src="https://img.shields.io/badge/STM32-12161D?style=flat-square&logo=stmicroelectronics&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="STM32" />
-      <br/><br/>
-      An embedded project on STM32F4 covering signal collection, filtering, and downstream health-state analysis.<br/>
-      这是一个基于 STM32F4 的嵌入式项目，涵盖了信号采集、滤波处理和后续健康状态分析。
-      <br/><br/>
-      It represents my low-level engineering side and my comfort working close to hardware constraints.<br/>
-      它代表了我偏底层的一面，也说明我能够适应贴近硬件约束的工程开发。
+The execution concept follows Scheme A: proposal passes first, then a multisig manager reviews and triggers execution manually.<br/>
+执行方案采用方案 A：提案先通过，再由多签管理员审核并手动触发执行。
 
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/liji3597/Forwarding-TG-bot">Forwarding-TG-bot</a></strong><br/>
-      <img src="https://img.shields.io/badge/Python-12161D?style=flat-square&logo=python&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Python" />
-      <img src="https://img.shields.io/badge/Telegram-12161D?style=flat-square&logo=telegram&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Telegram" />
-      <br/><br/>
-      A Telegram automation tool for forwarding, filtering, regex replacement, and protected-content extraction.<br/>
-      这是一个支持消息转发、关键词过滤、正则替换和受保护内容提取的 Telegram 自动化工具。
-      <br/><br/>
-      It shows my preference for small, sharp utilities that are useful immediately in real workflows.<br/>
-      它体现了我对“小而锋利”的工具型项目的偏好，也强调了真实工作流中的即时可用性。
+<br/>
 
-    </td>
-  </tr>
-</table>
+### [`Siliconflow-API-Management`](https://github.com/liji3597/Siliconflow-API-Management)
+<img src="https://img.shields.io/badge/JavaScript-12161D?style=flat-square&logo=javascript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-12161D?style=flat-square&logo=cloudflare&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Cloudflare Workers" />
+
+An API key management platform with load balancing, availability checks, sharing controls, and a visual admin layer.<br/>
+这是一个包含负载均衡、可用性检测、权限共享和可视化管理能力的 API Key 管理平台。
+
+It reflects my interest in practical tooling that solves operational problems with a clean product surface.<br/>
+这个项目体现了我对实用型工具产品的兴趣，也体现了我对工程问题产品化的偏好。
+
+<br/>
+
+### [`CACRS-on-STM32F4`](https://github.com/liji3597/CACRS-on-STM32F4)
+<img src="https://img.shields.io/badge/C-12161D?style=flat-square&logo=c&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="C" />
+<img src="https://img.shields.io/badge/STM32-12161D?style=flat-square&logo=stmicroelectronics&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="STM32" />
+
+An embedded project on STM32F4 covering signal collection, filtering, and downstream health-state analysis.<br/>
+这是一个基于 STM32F4 的嵌入式项目，涵盖了信号采集、滤波处理和后续健康状态分析。
+
+It represents my low-level engineering side and my comfort working close to hardware constraints.<br/>
+它代表了我偏底层的一面，也说明我能够适应贴近硬件约束的工程开发。
+
+<br/>
+
+### [`Forwarding-TG-bot`](https://github.com/liji3597/Forwarding-TG-bot)
+<img src="https://img.shields.io/badge/Python-12161D?style=flat-square&logo=python&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Python" />
+<img src="https://img.shields.io/badge/Telegram-12161D?style=flat-square&logo=telegram&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Telegram" />
+
+A Telegram automation tool for forwarding, filtering, regex replacement, and protected-content extraction.<br/>
+这是一个支持消息转发、关键词过滤、正则替换和受保护内容提取的 Telegram 自动化工具。
+
+It shows my preference for small, sharp utilities that are useful immediately in real workflows.<br/>
+它体现了我对“小而锋利”的工具型项目的偏好，也强调了真实工作流中的即时可用性。
 
 <br/>
 
