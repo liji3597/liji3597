@@ -6,17 +6,17 @@
 
 Liji Li · 李缉<br/>
 Practical software builder.<br/>
-更喜欢把东西做出来，也愿意把细节一点点打磨扎实。
-
+比较喜欢琢磨东西，也愿意把细节打磨扎实。
+**第一性原理+笛卡尔方法论+奥卡姆剃刀原则**
 <br/><br/>
 
 I build practical software and developer-facing products across TypeScript, JavaScript, C, and Python.<br/>
-我平时主要用 TypeScript、JavaScript、C 和 Python 做实用软件，也做一些面向开发者的产品。
+我平时主要用 TypeScript、JavaScript、C 和 Python 做有意思软件，也做一些个人向实用产品。
 
 <br/>
 
 I focus on clear interfaces, reliable engineering foundations, and prototypes that can grow into real products.<br/>
-我更在意界面是不是清楚、工程基础是不是稳，也希望原型不是一次性的 demo，而是真的能继续往下做。
+专注于界面简洁、清晰，工程基础夯实，始于demo原型MVP，终于实用的产品。
 
 <br/><br/>
 
@@ -36,16 +36,16 @@ I focus on clear interfaces, reliable engineering foundations, and prototypes th
 
 ```text
 Focus .............. Practical product engineering, frontend systems, automation tools, and hands-on experimentation.
-方向 .............. 我更关心能落地、能长期维护，也真的有人会去用的产品和工具。
+方向 .............. 更偏向于能落地、能长期维护，也真的有人会去用的产品和工具。
 
 Languages .......... TypeScript, JavaScript, C, and Python as my main working languages.
 主要语言 .......... 平时最常用的是 TypeScript、JavaScript、C 和 Python。
 
 Hackathons ......... SPARK AI Hackathon, USDC Agentic Hackathon, and First Spark Hackathon (4th place).
-参赛经历 .......... 参加过 SPARK AI Hackathon、USDC Agentic Hackathon，也在 First Spark Hackathon 拿过第 4 名。
+参赛经历 .......... 参加过 SPARK AI Hackathon、USDC Agentic Hackathon，Li.Fi Hackathon，也在 First Spark Hackathon 拿过第 4 名。
 
 Work style ......... Learn fast, prototype quickly, and harden the parts that prove useful.
-工作方式 .......... 先尽快把东西跑起来，再把真正值得继续做的部分一层层打磨扎实。
+工作方式 .......... 一般是需求驱动，除非有好的想法的话从顶层设计开始。**第一性原理+笛卡尔方法论+奥卡姆剃刀原则。**
 ```
 
 <br/>
@@ -152,7 +152,7 @@ One compact row for activity and language distribution.<br/>
 ## Contact
 
 Available for collaboration on practical products, developer tools, and frontend-heavy prototypes.<br/>
-如果你也在做实用型产品、开发者工具，或者偏前端的原型项目，欢迎直接来聊。
+如果你也在做实用型产品、开发者工具，Agent，开源产品，欢迎直接来聊。
 
 <p align="center">
   <a href="https://github.com/liji3597">
