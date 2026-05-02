@@ -59,32 +59,12 @@ Work style ......... Learn fast, prototype quickly, and harden the parts that pr
 English description first, followed by one short Chinese line.<br/>
 
 
-### [`Bored Treasury Yield Club (BTYC)`](https://github.com/liji3597/LI.FI-hackaton-forntend)
-<img src="https://img.shields.io/badge/TypeScript-12161D?style=flat-square&logo=typescript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Hackathon-LI.FI-12161D?style=flat-square&logo=github&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="LI.FI Hackathon" />
-
-Frontend prototype for a treasury yield workflow built during the LI.FI hackathon, with backend integration planned next.<br/>
-这是我做的一个黑客松前端原型，后面还会继续补完。<br/>
-The execution concept follows Scheme A: proposal passes first, then a multisig manager reviews and triggers execution manually.
-
-<br/>
-
-### [`Siliconflow-API-Management`](https://github.com/liji3597/Siliconflow-API-Management)
-<img src="https://img.shields.io/badge/JavaScript-12161D?style=flat-square&logo=javascript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Cloudflare_Workers-12161D?style=flat-square&logo=cloudflare&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="Cloudflare Workers" />
-
-An API key management platform with load balancing, availability checks, sharing controls, and a visual admin layer.<br/>
-这是一个做 API Key 管理的平台，包含负载均衡、可用性检测、共享权限和可视化管理。<br/>
-It reflects my interest in practical tooling that solves operational problems with a clean product surface.
-
-<br/>
-
 ### [`CACRS-on-STM32F4`](https://github.com/liji3597/CACRS-on-STM32F4)
 <img src="https://img.shields.io/badge/C-12161D?style=flat-square&logo=c&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="C" />
 <img src="https://img.shields.io/badge/STM32-12161D?style=flat-square&logo=stmicroelectronics&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="STM32" />
 
 An embedded project on STM32F4 covering signal collection, filtering, and downstream health-state analysis.<br/>
-这是一个基于 STM32F4 的嵌入式项目，做了信号采集、滤波和后续健康状态分析。<br/>
+这是一个基于 STM32F4 的嵌入式项目，做了心电信号采集、滤波和后续健康状态分析。<br/>
 It represents my low-level engineering side and my comfort working close to hardware constraints.
 
 <br/>
