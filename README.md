@@ -57,7 +57,7 @@ Work style ......... Learn fast, prototype quickly, and harden the parts that pr
 ## Featured Projects
 
 English description first, followed by one short Chinese line.<br/>
-先写英文介绍，下面接一句更简洁的中文。
+
 
 ### [`Bored Treasury Yield Club (BTYC)`](https://github.com/liji3597/LI.FI-hackaton-forntend)
 <img src="https://img.shields.io/badge/TypeScript-12161D?style=flat-square&logo=typescript&logoColor=F4E6C8&labelColor=12161D&color=B8893A" alt="TypeScript" />
