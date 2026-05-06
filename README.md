@@ -4,7 +4,7 @@
 
 <br/>
 
-Liji Lee · 李缉<br/>
+Jese Lee · 李缉<br/>
 Practical software builder.<br/>
 比较喜欢琢磨东西，也愿意把细节打磨扎实。<br/>
 **第一性原理+笛卡尔方法论+奥卡姆剃刀原则**
